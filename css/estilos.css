@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+h1,h2,h3,h4,h5{
+    font-family: "Bebas Neue", sans-serif;
+
+}
+
+.table{
+    margin-top: 46px;
+    margin-left: 15px;
+    text-align: center;
+    
+    
+}
+
